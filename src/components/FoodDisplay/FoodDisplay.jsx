@@ -22,7 +22,6 @@ export const FoodDisplay = ({category}) => {
                   />
                 );
             }
-          
         })}
       </div>
     </div>
